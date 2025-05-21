@@ -1,3 +1,5 @@
+![Banner](banner.gif)
+
 <h1 align="center">Hi 👋, I'm Priyanjal Gairola</h1>
 <h3 align="center">A full-stack enthusiast building impactful solutions</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnU4dDRvdDFjbHVrdzRtcmE2anU0YzN5a3NsN2dzNG5odHIxZnBzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
